@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngotic&show_icons=true&theme=vue)
-
+![Top Langs](https://github-readme-stat.vercel.app/api/top-langs/?username=ngotic1&layout=compact&theme=vue)
 <!--
 **ngotic/ngotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
